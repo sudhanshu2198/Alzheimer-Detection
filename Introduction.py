@@ -9,7 +9,7 @@ st.subheader("The main goal of this is to classify brain scans into different st
 
 
 root_dir=os.path.dirname(os.path.abspath(__file__))
-img_pth=os.path.join(root_dir,"images","intro_img.webp")
+img_pth=os.path.join(root_dir,"images","intro_img.jpeg")
 st.image(img_pth)
 
 st.write("Alzheimer's disease is a brain disorder that gets worse over time. It's characterized by changes in the brain \

@@ -11,8 +11,6 @@ People with Alzheimer's disease may
 - Misplace items, often putting them in places that don't make sense.
 - Have trouble finding the right words for objects, expressing thoughts or taking part in conversations."
 
-![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/ezgif.com-optimize.gif)
-
 ## 🔗 Links
 
  - [App Link](https://sudhanshu2198-end-to-end-restaurant-rating--introduction-ts1jhq.streamlit.app/)
