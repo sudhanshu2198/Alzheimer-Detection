@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from matplotlib import image
+from PIL import Image
 import os
 
 st.title("Alzheimer's Detection")
@@ -10,7 +11,8 @@ st.subheader("The main goal of this is to classify brain scans into different st
 
 root_dir=os.path.dirname(os.path.abspath(__file__))
 img_pth=os.path.join(root_dir,"images","intro_img.jpeg")
-st.image(img_pth)
+img=Image.open(img_pth)
+st.image(img)
 
 st.write("Alzheimer's disease is a brain disorder that gets worse over time. It's characterized by changes in the brain \
           that lead to deposits of certain proteins. Alzheimer's disease causes the brain to shrink and brain cells to \
