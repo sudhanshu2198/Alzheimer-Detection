@@ -21,7 +21,7 @@ People with Alzheimer's disease may
 
 
 ## 🛠 Skills
-Python, Pandas, Numpy, Matplotlib, Pytorch, Torchvision, Deepchecks, Streamlit, Git. 
+Python, Pandas, Numpy, Matplotlib, Pytorch, Torchvision, FastAPI, Docker, Deepchecks, Streamlit, Git. 
 
 ## Directory Tree
 ```bash
