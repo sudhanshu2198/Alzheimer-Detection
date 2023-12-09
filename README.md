@@ -16,6 +16,7 @@ People with Alzheimer's disease may
 ## 🔗 Links
 
  - [App Link](https://alzheimer-detection-deepchecks.streamlit.app/)
+ - [API Endpoint Link](https://srastog-alzheimer-detection.hf.space/docs)
  - [Kaggle Notebook link](https://www.kaggle.com/code/sudhanshu2198/alzheimer-s-detection/notebook)
 
 
