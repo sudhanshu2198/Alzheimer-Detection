@@ -3,7 +3,7 @@
 
 **The main goal of this is to classify brain scans into different stages of Dementia.**
 
-![](https://github.com/sudhanshu2198/Alzheimer-Detection/blob/main/images/intro_img.jpeg)
+![](https://github.com/sudhanshu2198/Alzheimer-Detection/blob/main/Alzhiemer.gif)
 
 Alzheimer's disease is a brain disorder that gets worse over time. It's characterized by changes in the brain that lead to deposits of certain proteins. Alzheimer's disease causes the brain to shrink and brain cells to eventually die. Alzheimer's disease is the most common cause of dementia — a gradual decline in memory, thinking, behavior and social skills. These changes affect a person's ability to function.
 
