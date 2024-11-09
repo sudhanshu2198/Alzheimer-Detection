@@ -24,8 +24,3 @@ st.markdown("""
             - Misplace items, often putting them in places that don't make sense.
             - Have trouble finding the right words for objects, expressing thoughts or taking part in conversations.""")
 
-col1,col2=st.columns(2)
-with col1:
-    st.write("[Github Link](https://github.com/sudhanshu2198/Alzheimer-Detection)")
-with col2:
-    st.write("[Kaggle Notebook](https://www.kaggle.com/code/sudhanshu2198/alzheimer-s-detection/notebook)")
