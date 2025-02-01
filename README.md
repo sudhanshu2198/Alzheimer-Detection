@@ -1,4 +1,3 @@
-
 # Alzheimer Disease Classification
 
 **The main goal of this is to classify brain scans into different stages of Dementia.**
@@ -68,7 +67,7 @@ Create Virtual Environment
 ```
 
 
-Now install all requirements
+Install all requirements
 
 ```bash
   pip install -r requirements.txt
