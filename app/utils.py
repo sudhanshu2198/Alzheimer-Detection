@@ -1,8 +1,8 @@
+import os
 import numpy as np
 import torch
 import torch.nn as nn
 import torchvision
-import os
 from torchvision.models import efficientnet_b0
 import torchvision.transforms.functional as tf
 
